@@ -1,0 +1,5 @@
+/.terraform
+/.terraform.lock.hcl
+/create-app-svc.tf
+/terraform.tfstate
+/terraform.tfstate.backup
